@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nombre",
+						"type": "string"
+					}
+				],
+				"name": "guardar_nombre",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"libreta.sol": "libreta"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"libreta.sol": {
+			"keccak256": "0xccf429faad22f323b15530e697fb0d8ce9de9aa368ccb660b0fccda571fbe654",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b835703fa21eb74f7112bd7eaf2e1c1c318c0977205649e2b1a2b6091a7113c0",
+				"dweb:/ipfs/Qmbr8AzkFeZawaW1UHfkv26t1FjeW4y2u8B65wxrErZZUd"
+			]
+		}
+	},
+	"version": 1
+}
